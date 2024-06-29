@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonSmallMenu" type="id">buttonSmallMenu</item>
+    <item name="imageMenuItem" type="id">imageMenuItem</item>
+    <item name="textMenuItemName" type="id">textMenuItemName</item>
+    <item name="textMenuItemPrice" type="id">textMenuItemPrice</item>
+</resources>
